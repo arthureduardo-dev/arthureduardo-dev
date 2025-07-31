@@ -1,18 +1,34 @@
-# 💫 About Me:
-- 🌎 Coding from Brazil.<br>- 🔭 I’m working as a coffee-to-code translator.<br>- 📚 I'm currently learning the ancient art of centering a div. The struggle is eternal.<br>- ⚡ In my free time, I try to explain to my family that `git push --force` is not a solution to life's problems.
+<h1 align="center">ARTHUR EDUARDO</h1>
 
+###
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2p2eEZnx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arthuresnts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arthur-eduardo-santos-6203b2328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:athedsx@outlook.com) 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="60" alt="python logo"  />
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arthureduardo-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arthureduardo-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthureduardo-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=arthureduardo-dev&icon=5&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://www.linkedin.com/in/arthur-eduardo-santos-6203b2328" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/2p2eEZnx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31hhvgdv63x3ccqt2otdswox5kdi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hhvgdv63x3ccqt2otdswox5kdi&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<p align="left">- 🌎 Coding from Brazil.<br>- 🔭 I’m working as a coffee-to-code translator.<br>- 📚 I'm currently learning the ancient art of centering a div. The struggle is eternal.<br>- ⚡ In my free time, I try to explain to my family that `git push --force` is not a solution to life's problems.</p>
+
+###

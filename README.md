@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=35&pause=50&color=00FF00&center=true&vCenter=true&width=600&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%3E+INICIALIZANDO+SISTEMA...;%3E+NOME+DE+C%C3%93DIGO%3A+ARTHUR+EDUARDO;%3E+ESPECIALIZA%C3%87%C3%83O%3A+Python+%7C+Linux;%3E+Decodificando+a+realidade%2C+uma+linha+de+cada+vez." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=35&pause=50&color=00FF00&center=true&vCenter=true&width=600&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%3E+INICIALIZANDO+SISTEMA...;%3E+NOME+DE+C%C3%93DIGO%3A+ARTHUR+EDUARDO;%3E+ESPECIALIZA%C3%87%C3%83O%3A+Redes+%7C+Linux+%7C+Ruby;%3E+Decodificando+a+realidade%2C+uma+linha+de+cada+vez." alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,10 +26,27 @@
 ---
 
 <h3 align="center" style="color:#00FFFF;">// ARSENAL CIBERNÉTICO //</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+
+<h4 align="center" style="color:#FFFF00; margin-bottom: 10px;">Foco Principal</h4>
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="ruby logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="50" alt="cisco logo"  />
+</div>
+
+<h4 align="center" style="color:#FF00FF; margin-bottom: 10px;">Outras Habilidades</h4>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>

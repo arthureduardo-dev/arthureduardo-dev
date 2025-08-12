@@ -33,7 +33,9 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="50" alt="cisco logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Mikrotik-logo.svg" height="50" alt="mikrotik logo" />
+  <img width="20" />
+  <img src="https://www.svgrepo.com/show/340058/content-delivery-network.svg" height="50" alt="network icon" />
 </div>
 
 <h4 align="center" style="color:#FF00FF; margin-bottom: 10px;">Outras Habilidades</h4>

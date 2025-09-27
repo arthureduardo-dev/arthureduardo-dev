@@ -1,33 +1,34 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=35&pause=50&color=00FF00&center=true&vCenter=true&width=600&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%3E+INITIALIZING+SYSTEMS...;%3E+CODENAME%3A+ARTHUR+EDUARDO;%3E+PRIMARY+DIRECTIVE%3A+GAME+DEVELOPER;%3E+SPECIALIZATION%3A+C%23+%7C+Unity+%7C+Aseprite;%3E+Crafting+worlds%2C+one+line+of+code+at+a+time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=100&color=pink&center=true&vCenter=true&width=600&lines=Greetings,+Traveler!;Arthur+Eduardo+here!;Game+Dev+Enthusiast;Unity+%7C+C%23+%7C+Aseprite;Crafting+pixel+dreams+into+reality!;Warning:+May+spontaneously+create+games!" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <samp style="color:#00FF00;">
-    A code mage lost in the game world. Transmuting coffee into character controllers and battling the final boss of null reference exceptions.
+  <samp style="color:#FF69B4; font-family: 'Comic Sans MS', cursive;">
+    // Just a humble pixel artisan, turning coffee into code and dreams into playable adventures. //
+    // My quest: Defeat the dreaded bug monsters and bring joy to players! //
   </samp>
 </p>
 
-<pre align="center" style="color:#00FF00; background-color: #0d1117; border: 1px solid #30363d; padding: 10px;">
-  <samp>
-  <b>[root@host ~]#</b> cat /etc/motd
+<pre align="center" style="color:#8A2BE2; background-color: #FFF0F5; border: 2px dashed #FF69B4; padding: 10px; border-radius: 10px;">
+  <samp style="font-family: 'Press Start 2P', cursive;">
+  <b>[~pixel_palace~]#</b> open about_me.txt
   -------------------------------------------------------------
-  [+] <b>Location:</b> Brazilian Network Node 🇧🇷
-  [+] <b>Status:</b> Spawning assets, debugging the physics engine.
-  [+] <b>Random Fact:</b> My alter ego believes `git push --force`
-      is the ultimate cheat code for rewriting history.
+  [+] <b>Home Base:</b> The enchanted forests of Brazil 🇧🇷
+  [+] <b>Current Mood:</b> Spriting new characters and making Unity dance!
+  [+] <b>Fun Fact:</b> I once tried to explain quaternions to my cat.
+      It went purr-fectly over his head. 🐾
   -------------------------------------------------------------
-  <b>[root@host ~]#</b> <img src="https://raw.githubusercontent.com/i-am-pessimistic/i-am-pessimistic/main/static/blink.gif" height="15">
+  <b>[~pixel_palace~]#</b> <img src="https://raw.githubusercontent.com/i-am-pessimistic/i-am-pessimistic/main/static/blink.gif" height="15">
   </samp>
 </pre>
 
 ---
 
-<h3 align="center" style="color:#00FFFF;">GAME DEV ARSENAL</h3>
+<h3 align="center" style="color:#BA55D3;">✨ MY MAGIC TOOLBOX ✨</h3>
 
-<h4 align="center" style="color:#FFFF00; margin-bottom: 10px;">Main Stack</h4>
+<h4 align="center" style="color:#FF69B4; margin-bottom: 10px;">Favorite Spells & Potions</h4>
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="20" />
@@ -38,33 +39,33 @@
 
 ---
 
-<h3 align="center" style="color:#FFFF00;">DATA STREAM</h3>
+<h3 align="center" style="color:#FF1493;">💫 PIXEL JOURNEY STATS 💫</h3>
 <div align="center">
   <a href="https://github.com/arthureduardo-dev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthureduardo-dev&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FFFF00&icon_color=FFFF00&text_color=00FF00&border_color=30363d" alt="Arthur's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthureduardo-dev&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFF0F5&title_color=FF1493&icon_color=BA55D3&text_color=8A2BE2" alt="Arthur's GitHub Stats" />
   </a>
   <br><br>
   <a href="https://github.com/arthureduardo-dev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthureduardo-dev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFF00&icon_color=FFFF00&text_color=00FF00&border_color=30363d" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthureduardo-dev&layout=compact&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF1493&icon_color=BA55D3&text_color=8A2BE2" alt="Top Languages" />
   </a>
 </div>
 
 ---
 
-<h3 align="center" style="color:#FF00FF;">CONNECTION NODES</h3>
+<h3 align="center" style="color:#DA70D6;">💖 CONNECT WITH ME 💖</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/arthur-eduardo-santos-6203b2328" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge&border=1px_solid_#FF00FF" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FFB6C1&logoColor=white&labelColor=&style=for-the-badge&border=1px_solid_#DA70D6" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/2p2eEZnx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=BA55D3&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3 align="center" style="color:#00FFFF;">CURRENT TRANSMISSION</h3>
+  <h3 align="center" style="color:#4B0082;">🎶 WHAT'S MY GAME THEME MUSIC? 🎶</h3>
   <a href="https://open.spotify.com/user/31hhvgdv63x3ccqt2otdswox5kdi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hhvgdv63x3ccqt2otdswox5kdi&count=1&unique=false&theme=dark" alt="Spotify recently played" />
   </a>

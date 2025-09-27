@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=35&pause=50&color=00FF00&center=true&vCenter=true&width=600&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%3E+INITIALIZING+SYSTEMS...;%3E+CODENAME%3A+ARTHUR+EDUARDO;%3E+SPECIALIZATION%3A+C%23+%7C+Unity+%7C+Aseprite;%3E+Scripting+reality%2C+one+pixel+at+a+time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=35&pause=50&color=00FF00&center=true&vCenter=true&width=600&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%3E+INITIALIZING+SYSTEMS...;%3E+CODENAME%3A+ARTHUR+EDUARDO;%3E+PRIMARY+DIRECTIVE%3A+GAME+DEVELOPER;%3E+SPECIALIZATION%3A+C%23+%7C+Unity+%7C+Aseprite;%3E+Crafting+worlds%2C+one+line+of+code+at+a+time." alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,9 +25,9 @@
 
 ---
 
-<h3 align="center" style="color:#00FFFF;">CYBERNETIC ARSENAL</h3>
+<h3 align="center" style="color:#00FFFF;">GAME DEV ARSENAL</h3>
 
-<h4 align="center" style="color:#FFFF00; margin-bottom: 10px;">Main Focus</h4>
+<h4 align="center" style="color:#FFFF00; margin-bottom: 10px;">Main Stack</h4>
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="20" />

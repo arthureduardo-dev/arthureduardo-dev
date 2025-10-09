@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=100&color=add8e6&center=true&vCenter=true&width=600&lines=Greetings!;Arthur+Eduardo+here!;Game+%26+Web+Developer;CS+Student;HTML+%7C+CSS+%7C+Java+%7C+C%23" alt="Typing SVG" />
-  </a>
+  <h1 style="font-family: 'Arial', sans-serif; color: #add8e6; font-weight: bold; font-size: 28px; letter-spacing: 2px;">
+    ARTHUR EDUARDO | JAVA & C# | CS STUDENT
+  </h1>
 </div>
 
 <p align="center">
@@ -35,14 +35,14 @@
 
 <h4 align="center" style="color:#87CEEB; margin-bottom: 10px;">Linguagens e Ferramentas</h4>
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+    <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
 </div>
 

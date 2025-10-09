@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/arthur-eduardo-santos-6203b2328" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=B0E0E6&logoColor=white&labelColor=&style=for-the-badge&border=1px_solid_#87CEFA" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.gg/2p2eEZnx" target="_blank">
+  <a href="discordapp.com/users/1364757153138610278" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=4682B4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
 </div>

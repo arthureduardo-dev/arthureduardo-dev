@@ -7,7 +7,6 @@
 <p align="center">
   <samp style="color:#4682B4; font-family: 'Comic Sans MS', cursive;">
     // Um humilde programador em uma jornada para construir experiências divertidas. //
-    // Minha missão: Criar código limpo e derrotar bugs com um sorriso! //
   </samp>
 </p>
 

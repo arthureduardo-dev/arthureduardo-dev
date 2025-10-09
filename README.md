@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-family: 'Arial', sans-serif; color: #add8e6; font-weight: bold; font-size: 28px; letter-spacing: 2px;">
+  <h1 style="font-family: 'monospace', 'Courier New'; font-size: 32px; font-weight: bold; color: #87CEEB; letter-spacing: 3px; text-shadow: 2px 2px #00008B;">
     ARTHUR EDUARDO | JAVA & C# | CS STUDENT
   </h1>
 </div>

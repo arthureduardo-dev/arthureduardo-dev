@@ -53,11 +53,11 @@
 
 <div align="center">
   <a href="https://github.com/arthureduardo-dev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthureduardo-dev&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&bg_color=F0F8FF&title_color=1E90FF&icon_color=4682B4&text_color=4169E1" alt="Arthur's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthureduardo-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000" alt="Arthur's GitHub Stats" />
   </a>
   <br><br>
   <a href="https://github.com/arthureduardo-dev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthureduardo-dev&layout=compact&theme=buefy&hide_border=true&bg_color=F0F8FF&title_color=1E90FF&icon_color=4682B4&text_color=4169E1" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthureduardo-dev&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" alt="Top Languages" />
   </a>
 </div>
 

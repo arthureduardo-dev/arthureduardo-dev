@@ -3,7 +3,7 @@
     Hey, I'm Arthur Eduardo 👋
   </h1>
   <p>
-    Computer Science Student | Web Developer | Future Flutter Dev
+    Computer Science Student | Web Developer | Future PHP Dev
   </p>
 </div>
 
@@ -14,7 +14,7 @@
 <p align="center">
   I'm a 21-year-old Computer Science student on a mission to build stuff that actually makes everyday life easier.
   <br />
-  I'm currently skilled in web technologies and now diving deep into the world of mobile development with Flutter.
+  I'm currently skilled in web technologies and now diving deep into the world of back-end development with PHP.
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 <p align="center">
   <strong>What I'm learning (The Future):</strong>
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
 </p>
 
 <p align="center">
@@ -58,6 +58,10 @@
   <br><br>
   <a href="https://github.com/arthureduardo-dev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthureduardo-dev&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" alt="Top Languages" />
+  </a>
+  <br><br>
+  <a href="https://github.com/arthureduardo-dev">
+    <img align="center" src="https://github-readme-snake.vercel.app/api?username=arthureduardo-dev&color_snake=000000&color_dots=E0E0E0,E0E0E0,E0E0E0,E0E0E0,E0E0E0" alt="Snake Game Animation" />
   </a>
 </div>
 

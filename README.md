@@ -11,7 +11,6 @@
 <div>
 
 ### 🔭 Sobre Mim
-
 Estudante de Ciência da Computação focado em construir soluções tecnológicas que otimizem e facilitem processos do cotidiano. 
 
 Atualmente, estou consolidando minhas habilidades em desenvolvimento web (Front-end) e explorando o ecossistema Python, enquanto busco minha primeira oportunidade profissional na área de desenvolvimento.

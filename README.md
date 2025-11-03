@@ -1,45 +1,14 @@
-<style>
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #58A6FF }
-  }
-  .typing-animation {
-    display: inline-block;
-    overflow: hidden; 
-    border-right: .15em solid #58A6FF; 
-    white-space: nowrap; 
-    margin: 0 auto; 
-    letter-spacing: .05em; 
-    animation: 
-      typing 3.5s steps(40, end),
-      blink-caret .75s step-end infinite;
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(10px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  .fade-in-section {
-    opacity: 0;
-    animation: fadeIn 1s ease-out forwards;
-    animation-delay: var(--delay);
-  }
-</style>
-
 <div align="center">
   
-# <span class="typing-animation">Arthur Eduardo dos Santos</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&color=58A6FF&background=0D1117&center=true&vCenter=true&lines=Arthur+Eduardo+dos+Santos" alt="Arthur Eduardo dos Santos - Animação de Digitação" />
   
-### Estudante de Ciência da Computação | Desenvolvedor Web
+  ### Estudante de Ciência da Computação | Desenvolvedor Web
   
 </div>
 
 ---
 
-<div class="fade-in-section" style="--delay: 0.5s;">
+<div>
 
 ### 🔭 Sobre Mim
 
@@ -51,7 +20,7 @@ Atualmente, estou consolidando minhas habilidades em desenvolvimento web (Front-
 
 ---
 
-<div class="fade-in-section" style="--delay: 1s;">
+<div>
 
 ### 🌌 Constelação de Habilidades
 
@@ -67,7 +36,7 @@ Atualmente, estou consolidando minhas habilidades em desenvolvimento web (Front-
 
 ---
 
-<div class="fade-in-section" style="--delay: 1.5s;">
+<div>
 
 ### 📊 Estatísticas
 
@@ -84,7 +53,7 @@ Atualmente, estou consolidando minhas habilidades em desenvolvimento web (Front-
 
 ---
 
-<div class="fade-in-section" style="--delay: 2s;">
+<div>
 
 ### 🛰️ Pontos de Contato
 

@@ -1,90 +1,97 @@
-<div align="center">
-  <h1>
-    Hey, I'm Arthur Eduardo 👋
-  </h1>
-  <p>
-    Computer Science Student | Web Developer | Future PHP Dev
-  </p>
-</div>
-
----
-
-### 👨‍💻 About Me
-
-<p align="center">
-  I'm a 21-year-old Computer Science student on a mission to build stuff that actually makes everyday life easier.
-  <br />
-  I'm currently skilled in web technologies and now diving deep into the world of back-end development with PHP.
-</p>
-
-<p align="center">
-  When I'm not coding, I'm probably gaming, finding a new series to binge, or brewing way too much coffee. ☕
-</p>
-
----
-
-### 🛠️ My Toolkit
-
-<p align="center">
-  <strong>What I know (The Essentials):</strong>
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-</p>
-
-<p align="center">
-  <strong>What I'm learning (The Future):</strong>
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
-</p>
-
-<p align="center">
-  <strong>What I do for fun (The Hobby):</strong>
-  <br><br>
-  <em>Passionate about game dev & exploring it as a hobby!</em>
-</p>
-
----
-
-### 📊 My Stats
+<style>
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #58A6FF }
+  }
+  .typing-animation {
+    display: inline-block;
+    overflow: hidden; 
+    border-right: .15em solid #58A6FF; 
+    white-space: nowrap; 
+    margin: 0 auto; 
+    letter-spacing: .05em; 
+    animation: 
+      typing 3.5s steps(40, end),
+      blink-caret .75s step-end infinite;
+  }
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .fade-in-section {
+    opacity: 0;
+    animation: fadeIn 1s ease-out forwards;
+    animation-delay: var(--delay);
+  }
+</style>
 
 <div align="center">
-  <a href="https://github.com/arthureduardo-dev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthureduardo-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000" alt="Arthur's GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/arthureduardo-dev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthureduardo-dev&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" alt="Top Languages" />
-  </a>
-  <br><br>
-  <a href="https://github.com/arthureduardo-dev">
-    <img align="center" src="https://github-readme-snake.vercel.app/api?username=arthureduardo-dev&color_snake=000000&color_dots=E0E0E0,E0E0E0,E0E0E0,E0E0E0,E0E0E0" alt="Snake Game Animation" />
-  </a>
-</div>
-
----
-
-### 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arthur-eduardo-santos-6203b2328" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
   
-  <a href="discordapp.com/users/1364757153138610278" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=E0E0E0&logoColor=black&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
+# <span class="typing-animation">Arthur Eduardo dos Santos</span>
+  
+### Estudante de Ciência da Computação | Desenvolvedor Web
+  
 </div>
 
 ---
 
-### 🎧 Current Vibe
+<div class="fade-in-section" style="--delay: 0.5s;">
+
+### 🔭 Sobre Mim
+
+Estudante de Ciência da Computação focado em construir soluções tecnológicas que otimizem e facilitem processos do cotidiano. 
+
+Atualmente, estou consolidando minhas habilidades em desenvolvimento web (Front-end) e explorando o ecossistema Python, enquanto busco minha primeira oportunidade profissional na área de desenvolvimento.
+
+</div>
+
+---
+
+<div class="fade-in-section" style="--delay: 1s;">
+
+### 🌌 Constelação de Habilidades
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31hhvgdv63x3ccqt2otdswox5kdi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hhvgdv63x3ccqt2otdswox5kdi&count=1&unique=false&theme=dark" alt="Spotify recently played" />
-  </a>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+</div>
+
+---
+
+<div class="fade-in-section" style="--delay: 1.5s;">
+
+### 📊 Estatísticas
+
+<div align="center">
+
+[![Estatísticas do GitHub de Arthur](https://github-readme-stats.vercel.app/api?username=arthureduardo-dev&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/arthureduardo-dev)
+  
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=arthureduardo-dev&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/arthureduardo-dev)
+  
+[![Animação da Cobrinha](https://github-readme-snake.vercel.app/api?username=arthureduardo-dev&theme=dark&color_snake=58A6FF&color_dots=C9D1D9,58A6FF,C9D1D9,58A6FF,C9D1D9)](https://github.com/arthureduardo-dev)
+  
+</div>
+</div>
+
+---
+
+<div class="fade-in-section" style="--delay: 2s;">
+
+### 🛰️ Pontos de Contato
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-eduardo-santos-6203b2328)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1364757153138610278)
+  
+</div>
 </div>

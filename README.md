@@ -13,7 +13,7 @@
 <br>
 Estudante de Ciência da Computação e Analista de Redes de Telecomunicações com sólida experiência em operações NOC e infraestrutura de ISP. 
 
-Atualmente, direciono meu foco para o **Desenvolvimento Frontend**, criando interfaces modernas e responsivas. Tenho experiência no desenvolvimento de diversos sites e aplicações web, focando sempre na melhor experiência do usuário e na performance. Além do desenvolvimento, mantenho minha expertise prática em monitoramento de redes, configuração de equipamentos Mikrotik e gestão de protocolos.
+Atualmente, direciono meu foco para o **Desenvolvimento Frontend**, criando interfaces modernas, responsivas e eficientes. Tenho experiência prática no desenvolvimento de diversos sites e aplicações web, priorizando a usabilidade e a experiência do usuário. Paralelamente, mantenho minha atuação técnica em monitoramento de redes, configuração de equipamentos Mikrotik e gestão de protocolos de roteamento.
 
 ---
 
@@ -27,6 +27,7 @@ Atualmente, direciono meu foco para o **Desenvolvimento Frontend**, criando inte
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📡 Redes & Infraestrutura
 ![Mikrotik RouterOS](https://img.shields.io/badge/Mikrotik%20RouterOS-29438D?style=for-the-badge&logo=mikrotik&logoColor=white)
@@ -43,7 +44,8 @@ Atualmente, direciono meu foco para o **Desenvolvimento Frontend**, criando inte
 
 <br>
 
-Desenvolvi diversos sites e projetos web utilizando **React** e **JavaScript**, focando em soluções funcionais e design intuitivo. Meu portfólio abrange desde landing pages institucionais até aplicações web dinâmicas, unindo minha lógica de engenharia com a criatividade do frontend.
+Desenvolvi diversos sites, landing pages e sistemas web utilizando **React** e **JavaScript**. 
+Meus projetos focam em entregar soluções visuais atraentes e funcionais, aplicando boas práticas de componentização e design responsivo para garantir a melhor navegação em qualquer dispositivo.
 
 ---
 
@@ -53,6 +55,6 @@ Desenvolvi diversos sites e projetos web utilizando **React** e **JavaScript**, 
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-atheds.com.br-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.atheds.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-eduardo-santos-6203b2328/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-eduardo-dos-santos-6203b2328)
   
 </div>

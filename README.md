@@ -1,55 +1,52 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&color=58A6FF&background=0D1117&center=true&vCenter=true&width=500&lines=Arthur+Eduardo+dos+Santos;Frontend+Developer;Network+Analyst;React+%7C+JavaScript+%7C+NOC" alt="Arthur Eduardo dos Santos" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&color=58A6FF&background=0D1117&center=true&vCenter=true&width=500&lines=Arthur+Eduardo+dos+Santos;Cybersecurity+Focus;Computer+Science;C%2B%2B+%7C+Linux+%7C+Networking" alt="Arthur Eduardo dos Santos" />
   
-  ### Estudante de Ciência da Computação | Desenvolvedor Frontend & Analista de Redes
+  ### Computer Science Student | Cybersecurity & Networking
   
 </div>
 
 ---
 
-<img src="https://img.shields.io/badge/🔭%20Sobre%20Mim-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Sobre Mim" />
+<img src="https://img.shields.io/badge/🔭%20About%20Me-58A6FF?style=for-the-badge&labelColor=0D1117" alt="About Me" />
 
 <br>
-Estudante de Ciência da Computação e Analista de Redes de Telecomunicações com sólida experiência em operações NOC e infraestrutura de ISP. 
+Computer Science student and Network Analyst with a solid background in NOC operations and ISP infrastructure. 
 
-Atualmente, direciono meu foco para o **Desenvolvimento Frontend**, criando interfaces modernas, responsivas e eficientes. Tenho experiência prática no desenvolvimento de diversos sites e aplicações web, priorizando a usabilidade e a experiência do usuário. Paralelamente, mantenho minha atuação técnica em monitoramento de redes, configuração de equipamentos Mikrotik e gestão de protocolos de roteamento.
+Currently, I am focusing my career on **Cybersecurity**, exploring system vulnerabilities, secure architectures, and robust software development. My hands-on experience with network monitoring, routing protocols, and infrastructure provides a strong foundation for understanding how to secure complex environments. Alongside cybersecurity, I actively develop my skills in low-level programming with C/C++ and build interactive applications and simulations using Unity. 
 
 ---
 
-<img src="https://img.shields.io/badge/🌌%20Constelação%20de%20Habilidades-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Constelação de Habilidades" />
+<img src="https://img.shields.io/badge/🌌%20Tech%20Stack-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Tech Stack" />
 
 <br>
 <div align="center">
 
-### 💻 Frontend & Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛡️ Cybersecurity & Systems
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-### 📡 Redes & Infraestrutura
-![Mikrotik RouterOS](https://img.shields.io/badge/Mikrotik%20RouterOS-29438D?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Redes L2/L3](https://img.shields.io/badge/Switching%20&%20Routing%20(L2/L3)-0D1117?style=for-the-badge&logo=cisco&logoColor=58A6FF)
+### 📡 Networking & Infrastructure
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-0D1117?style=for-the-badge)
-![NOC](https://img.shields.io/badge/Opera%C3%A7%C3%B5es%20NOC-58A6FF?style=for-the-badge&labelColor=0D1117)
-![GPON/FTTx](https://img.shields.io/badge/GPON%20/%20FTTx-0D1117?style=for-the-badge)
+![Redes L2/L3](https://img.shields.io/badge/Switching%20&%20Routing%20(L2/L3)-0D1117?style=for-the-badge&logo=cisco&logoColor=58A6FF)
+![Mikrotik RouterOS](https://img.shields.io/badge/Mikrotik%20RouterOS-29438D?style=for-the-badge&logo=mikrotik&logoColor=white)
+![NOC](https://img.shields.io/badge/NOC%20Operations-58A6FF?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
 ---
 
-<img src="https://img.shields.io/badge/🚀%20Projetos-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Projetos" />
+<img src="https://img.shields.io/badge/🚀%20Projects-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Projects" />
 
 <br>
 
-Desenvolvi diversos sites, landing pages e sistemas web utilizando **React** e **JavaScript**. 
-Meus projetos focam em entregar soluções visuais atraentes e funcionais, aplicando boas práticas de componentização e design responsivo para garantir a melhor navegação em qualquer dispositivo.
+My current projects are centered around **Cybersecurity**, systems programming, and network defense. I am focused on building secure solutions, developing tools in **C/C++**, and leveraging **Linux** environments for penetration testing and vulnerability analysis. I also experiment with **Unity** to create interactive environments and simulations to better understand complex system behaviors.
 
 ---
 
-<img src="https://img.shields.io/badge/🛰️%20Pontos%20de%20Contato-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Pontos de Contato" />
+<img src="https://img.shields.io/badge/🛰️%20Contact-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Contact" />
 
 <br>
 <div align="center">
